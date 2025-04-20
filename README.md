@@ -8,8 +8,9 @@ I enjoy learning new technologies, contributing to open-source, and solving real
 ---
 
 ## 🛠️ Tech Stack  
-**Frontend:** Tailwind CSS, Bootstrap, jQuery, JavaScript  
-**Backend Framework:** Laravel (PHP)  
+**Frontend:** HTML5,CSS3,Tailwind CSS, Bootstrap, jQuery, JavaScript  
+**Backend:** PHP
+**Backend Framework:** Laravel,Cake PHP  
 **CMS:** WordPress  
 **Database:** MySQL  
 **Authentication:** Laravel Breeze, Sanctum, Custom Auth (Core PHP & Laravel)  
