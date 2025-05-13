@@ -28,8 +28,8 @@ Let’s build something innovative and impactful together! 🚀
 ---
 
 ## 📫 Let's Connect  
-📩 **Email:** kundansahil.dev@gmail.com  
+📩 **Email:** kundansahil0993@gmail.com  
 🔗 **LinkedIn:** [kundansahil](https://linkedin.com/in/kundansahil)  
 🐦 **Twitter (X):** [@kundansahil_](https://twitter.com/kundansahil_)  
 📷 **Instagram:** [@kundansahil.dev](https://instagram.com/kundansahil.dev)  
-📺 **YouTube:** [@kundansahil](https://youtube.com/@kundansahil)
+📺 **YouTube:** [@ks_web_dev](https://youtube.com/@ks_web_dev)
